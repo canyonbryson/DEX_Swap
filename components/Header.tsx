@@ -23,9 +23,9 @@ function Header(props: {
         <Link href="/" className="link">
           <div className="headerItem">Swap</div>
         </Link>
-        <Link href="/tokens" className="link">
+        {/* <Link href="/tokens" className="link">
           <div className="headerItem">Tokens</div>
-        </Link>
+        </Link> */}
       </div>
       <div className="rightH">
         <div className="headerItem">
